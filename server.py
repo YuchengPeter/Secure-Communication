@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import socket, binascii
+import socket
 from threading import *
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_v1_5
